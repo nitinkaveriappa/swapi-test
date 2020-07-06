@@ -1,0 +1,2 @@
+(this["webpackJsonpswapi-test"]=this["webpackJsonpswapi-test"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),l=n(2);var o=function(){return r.a.createElement(r.a.Fragment,null,"Hello World")};n.n(l).a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(o,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.0f97d537.chunk.js.map
