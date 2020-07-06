@@ -1,21 +1,29 @@
 {
   "files": {
-    "Login.js": "/swapi-test/static/js/Login.4ea605f4.chunk.js",
-    "Login.js.map": "/swapi-test/static/js/Login.4ea605f4.chunk.js.map",
-    "main.js": "/swapi-test/static/js/main.75b68e60.chunk.js",
-    "main.js.map": "/swapi-test/static/js/main.75b68e60.chunk.js.map",
-    "runtime-main.js": "/swapi-test/static/js/runtime-main.447b3c7e.js",
-    "runtime-main.js.map": "/swapi-test/static/js/runtime-main.447b3c7e.js.map",
-    "static/js/3.032aa779.chunk.js": "/swapi-test/static/js/3.032aa779.chunk.js",
-    "static/js/3.032aa779.chunk.js.map": "/swapi-test/static/js/3.032aa779.chunk.js.map",
+    "static/js/0.9fe9a27e.chunk.js": "/swapi-test/static/js/0.9fe9a27e.chunk.js",
+    "static/js/0.9fe9a27e.chunk.js.map": "/swapi-test/static/js/0.9fe9a27e.chunk.js.map",
+    "Home.js": "/swapi-test/static/js/Home.e05f2801.chunk.js",
+    "Home.js.map": "/swapi-test/static/js/Home.e05f2801.chunk.js.map",
+    "Login.js": "/swapi-test/static/js/Login.db9b3acc.chunk.js",
+    "Login.js.map": "/swapi-test/static/js/Login.db9b3acc.chunk.js.map",
+    "main.js": "/swapi-test/static/js/main.b674b53a.chunk.js",
+    "main.js.map": "/swapi-test/static/js/main.b674b53a.chunk.js.map",
+    "runtime-main.js": "/swapi-test/static/js/runtime-main.565d20c1.js",
+    "runtime-main.js.map": "/swapi-test/static/js/runtime-main.565d20c1.js.map",
+    "static/js/5.78270adf.chunk.js": "/swapi-test/static/js/5.78270adf.chunk.js",
+    "static/js/5.78270adf.chunk.js.map": "/swapi-test/static/js/5.78270adf.chunk.js.map",
+    "static/js/6.e113999f.chunk.js": "/swapi-test/static/js/6.e113999f.chunk.js",
+    "static/js/6.e113999f.chunk.js.map": "/swapi-test/static/js/6.e113999f.chunk.js.map",
+    "static/js/7.d45bc677.chunk.js": "/swapi-test/static/js/7.d45bc677.chunk.js",
+    "static/js/7.d45bc677.chunk.js.map": "/swapi-test/static/js/7.d45bc677.chunk.js.map",
     "index.html": "/swapi-test/index.html",
-    "precache-manifest.0ecf9b1d5db6f4c9c633d11b158b5aff.js": "/swapi-test/precache-manifest.0ecf9b1d5db6f4c9c633d11b158b5aff.js",
+    "precache-manifest.69a2913d2e96aa29e6bd9eacca71688d.js": "/swapi-test/precache-manifest.69a2913d2e96aa29e6bd9eacca71688d.js",
     "service-worker.js": "/swapi-test/service-worker.js",
-    "static/js/3.032aa779.chunk.js.LICENSE.txt": "/swapi-test/static/js/3.032aa779.chunk.js.LICENSE.txt"
+    "static/js/5.78270adf.chunk.js.LICENSE.txt": "/swapi-test/static/js/5.78270adf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.447b3c7e.js",
-    "static/js/3.032aa779.chunk.js",
-    "static/js/main.75b68e60.chunk.js"
+    "static/js/runtime-main.565d20c1.js",
+    "static/js/5.78270adf.chunk.js",
+    "static/js/main.b674b53a.chunk.js"
   ]
 }

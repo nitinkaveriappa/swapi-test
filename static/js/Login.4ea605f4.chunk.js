@@ -1,2 +1,0 @@
-(this["webpackJsonpswapi-test"]=this["webpackJsonpswapi-test"]||[]).push([[0],{27:function(t,e,n){"use strict";n.r(e);var s=n(0),a=n.n(s);e.default=function(){return a.a.createElement(a.a.Fragment,null,"Login")}}}]);
-//# sourceMappingURL=Login.4ea605f4.chunk.js.map
