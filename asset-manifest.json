@@ -2,20 +2,20 @@
   "files": {
     "Login.js": "/swapi-test/static/js/Login.4ea605f4.chunk.js",
     "Login.js.map": "/swapi-test/static/js/Login.4ea605f4.chunk.js.map",
-    "main.js": "/swapi-test/static/js/main.5efbb3e5.chunk.js",
-    "main.js.map": "/swapi-test/static/js/main.5efbb3e5.chunk.js.map",
+    "main.js": "/swapi-test/static/js/main.5e367e8e.chunk.js",
+    "main.js.map": "/swapi-test/static/js/main.5e367e8e.chunk.js.map",
     "runtime-main.js": "/swapi-test/static/js/runtime-main.447b3c7e.js",
     "runtime-main.js.map": "/swapi-test/static/js/runtime-main.447b3c7e.js.map",
     "static/js/3.ba93e4e9.chunk.js": "/swapi-test/static/js/3.ba93e4e9.chunk.js",
     "static/js/3.ba93e4e9.chunk.js.map": "/swapi-test/static/js/3.ba93e4e9.chunk.js.map",
     "index.html": "/swapi-test/index.html",
-    "precache-manifest.4d8dd43ce596e5389cebec567b4cd69d.js": "/swapi-test/precache-manifest.4d8dd43ce596e5389cebec567b4cd69d.js",
+    "precache-manifest.bd0b4f156ed0ad7cf875cb66c9a5ded5.js": "/swapi-test/precache-manifest.bd0b4f156ed0ad7cf875cb66c9a5ded5.js",
     "service-worker.js": "/swapi-test/service-worker.js",
     "static/js/3.ba93e4e9.chunk.js.LICENSE.txt": "/swapi-test/static/js/3.ba93e4e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.447b3c7e.js",
     "static/js/3.ba93e4e9.chunk.js",
-    "static/js/main.5efbb3e5.chunk.js"
+    "static/js/main.5e367e8e.chunk.js"
   ]
 }
